@@ -1,5 +1,7 @@
 # WikiGraph
-TigerGraph Wikipedia Sample Graph — Useful for Searching
+TigerGraph Wikipedia Sample Graph 
+
+Check out a step-by-step guide to this graph [here](https://medium.com/@shreya-chaudhary/linking-wikipedia-articles-in-a-knowledge-graph-with-tigergraph-beautifulsoup-and-yake-52dd3261a86d).
 
 ## Data
 
